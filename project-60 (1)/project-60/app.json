@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "project-60",
+    "slug": "snack-af68baf3-f828-4736-93ce-81ee7a15d3c5",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier":"com.testures.project-60"
+    },
+    "android": {
+     "package":"com.testuser.project-60"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
